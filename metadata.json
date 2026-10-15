@@ -1,0 +1,6 @@
+{
+  "name": "Smart Project Submission Portal",
+  "description": "Centralized online platform for engineering college mini and final-year project submissions, reviews, advisor evaluations, and HOD tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
